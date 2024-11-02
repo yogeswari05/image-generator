@@ -5,5 +5,11 @@
       "src": "next.config.js",
       "use": "@vercel/next"
     }
-  ]
+  ],
+  {
+  "env": {
+    "FAL_KEY": "aa2887cc-d8e6-493e-8d90-308e03e19463:a0fb679134d1985973fe8174c9d38c49"
+  }
+}
+
 }
